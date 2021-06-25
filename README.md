@@ -1,2 +1,2 @@
-# Data-Science
-Disini adalah berupa hasil project mengolah data untuk kepentingan data science
+# Data-Science Study
+Disini adalah materi-materi dan latihan selama belajar data-science, selamat membaca
